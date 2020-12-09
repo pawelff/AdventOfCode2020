@@ -11,6 +11,7 @@
 | 06 | [Custom Customs][day06] | [:heavy_check_mark:] |
 | 07 | [Handy Haversacks][day07] | [:heavy_check_mark:] |
 | 08 | [Handheld Halting][day08] | [:heavy_check_mark:] |
+| 09 | [Encoding Error][day09] | [:heavy_check_mark:] |
 
 [day01]: https://adventofcode.com/2020/day/1
 [day02]: https://adventofcode.com/2020/day/2
@@ -20,3 +21,4 @@
 [day06]: https://adventofcode.com/2020/day/6
 [day07]: https://adventofcode.com/2020/day/7
 [day08]: https://adventofcode.com/2020/day/8
+[day09]: https://adventofcode.com/2020/day/9
