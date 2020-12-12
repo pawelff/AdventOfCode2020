@@ -9,8 +9,7 @@ positions = {'N': 0, 'E': 0, 'S': 0, 'W': 0}
 directions = ['E', 'S', 'W', 'N']
 direction = 0 #^ initial direction is east
 for instr in data:
-	action, value = instr[0], instr[1:]
-	value = int(value)
+	action, value = instr[0], int(instr[1:])
 	if action == 'R':
 		direction += value//90
 		direction %= 4
@@ -34,8 +33,7 @@ directions = ['E', 'S', 'W', 'N']
 direction = 0
 waypiont = {'N': 1, 'E': 10, 'S': 0, 'W': 0}
 for instr in data:
-	action, value = instr[0], instr[1:]
-	value = int(value)
+	action, value = instr[0], int(instr[1:])
 	if action == 'F':
 		for wp, val in waypiont.items():
 			positions[wp] += val*value
