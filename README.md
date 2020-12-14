@@ -16,6 +16,7 @@
 | 11 | [Seating System][day11] | [:heavy_check_mark:] |
 | 12 | [Rain Risk][day12] | [:heavy_check_mark:] |
 | 13 | [Shuttle Search][day13] | [1/2] |
+| 14 | [Docking Data][day14] | [1/2]|
 
 [day01]: https://adventofcode.com/2020/day/1
 [day02]: https://adventofcode.com/2020/day/2
@@ -30,3 +31,4 @@
 [day11]: https://adventofcode.com/2020/day/11
 [day12]: https://adventofcode.com/2020/day/12
 [day13]: https://adventofcode.com/2020/day/13
+[day13]: https://adventofcode.com/2020/day/14
