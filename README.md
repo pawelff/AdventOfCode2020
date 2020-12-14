@@ -31,4 +31,4 @@
 [day11]: https://adventofcode.com/2020/day/11
 [day12]: https://adventofcode.com/2020/day/12
 [day13]: https://adventofcode.com/2020/day/13
-[day13]: https://adventofcode.com/2020/day/14
+[day14]: https://adventofcode.com/2020/day/14
