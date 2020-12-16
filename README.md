@@ -18,6 +18,7 @@
 | 13 | [Shuttle Search][day13] | [1/2] |
 | 14 | [Docking Data][day14] | [1/2]|
 | 15 | [Rambunctious Recitation][day15] | [:heavy_check_mark:] |
+| 16 | [Ticket Translation][day16] | [:heavy_check_mark:] |
 
 [day01]: https://adventofcode.com/2020/day/1
 [day02]: https://adventofcode.com/2020/day/2
@@ -34,3 +35,4 @@
 [day13]: https://adventofcode.com/2020/day/13
 [day14]: https://adventofcode.com/2020/day/14
 [day15]: https://adventofcode.com/2020/day/15
+[day16]: https://adventofcode.com/2020/day/16
