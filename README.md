@@ -20,6 +20,10 @@
 | 15 | [Rambunctious Recitation][day15] | [:heavy_check_mark:] |
 | 16 | [Ticket Translation][day16] | [:heavy_check_mark:] |
 | 17 | [Conway Cubes][day17] | [:x:] |
+| 18 | [Operation Order][day18] | [] |
+| 19 | [Monster Messages][day19] | [] |
+| 20 | [Jurassic Jigsaw][day20] | [] |
+| 21 | [Allergen Assesment][day21] | [1/2] |
 
 [day01]: https://adventofcode.com/2020/day/1
 [day02]: https://adventofcode.com/2020/day/2
@@ -38,3 +42,7 @@
 [day15]: https://adventofcode.com/2020/day/15
 [day16]: https://adventofcode.com/2020/day/16
 [day17]: https://adventofcode.com/2020/day/17
+[day18]: https://adventofcode.com/2020/day/18
+[day19]: https://adventofcode.com/2020/day/19
+[day20]: https://adventofcode.com/2020/day/20
+[day21]: https://adventofcode.com/2020/day/21
