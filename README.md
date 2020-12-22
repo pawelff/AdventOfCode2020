@@ -47,4 +47,4 @@
 [day19]: https://adventofcode.com/2020/day/19
 [day20]: https://adventofcode.com/2020/day/20
 [day21]: https://adventofcode.com/2020/day/21
-[day21]: https://adventofcode.com/2020/day/22
+[day22]: https://adventofcode.com/2020/day/22
