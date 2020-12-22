@@ -24,6 +24,7 @@
 | 19 | [Monster Messages][day19] | [] |
 | 20 | [Jurassic Jigsaw][day20] | [] |
 | 21 | [Allergen Assesment][day21] | [1/2] |
+| 22 | [Crab Combat][day22] | [1/2] |
 
 [day01]: https://adventofcode.com/2020/day/1
 [day02]: https://adventofcode.com/2020/day/2
@@ -46,3 +47,4 @@
 [day19]: https://adventofcode.com/2020/day/19
 [day20]: https://adventofcode.com/2020/day/20
 [day21]: https://adventofcode.com/2020/day/21
+[day21]: https://adventofcode.com/2020/day/22
