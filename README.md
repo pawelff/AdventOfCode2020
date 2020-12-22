@@ -20,9 +20,9 @@
 | 15 | [Rambunctious Recitation][day15] | [:heavy_check_mark:] |
 | 16 | [Ticket Translation][day16] | [:heavy_check_mark:] |
 | 17 | [Conway Cubes][day17] | [:x:] |
-| 18 | [Operation Order][day18] | [] |
-| 19 | [Monster Messages][day19] | [] |
-| 20 | [Jurassic Jigsaw][day20] | [] |
+| 18 | [Operation Order][day18] | [:heavy_check_mark:] |
+| 19 | [Monster Messages][day19] | [:x:] |
+| 20 | [Jurassic Jigsaw][day20] | [:x:] |
 | 21 | [Allergen Assesment][day21] | [1/2] |
 | 22 | [Crab Combat][day22] | [1/2] |
 
